@@ -1,0 +1,4 @@
+//ustawienia sesji
+<?php
+
+	
