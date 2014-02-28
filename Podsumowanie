@@ -1,0 +1,8 @@
+Stworzyłem większość rzeczy jakie trzeba było. Co do zmian które bym wykonał gdybym miał więcej czasu, to:
+- w kontrolerach zastosowałbym metodę switch zamaist if'ów przy wywoływaniu funkcji
+- sesję storzyłbym na plikach cookies, trzeba jeszcze zapobiec dostępowi do sesji która już zostąła stworzona. Dodałbym
+  funkcję do każdego pliku, ktora by sprawdzała czy jakaś funkcja juz nie wygasła po x czasie i zmieniałbym active = 1
+  active = 0;
+- dodać fukncje usuwania/aktywacji zdjęć
+- dodać funkcje zarzadzania team'em;
+- poprawić pomniejsze błędy, lub zoptymalizować kod, przenosząc id_sesji poziom wyżej np do admin.php lub index.php
