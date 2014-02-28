@@ -6,6 +6,7 @@ Stworzyłem większość rzeczy jakie trzeba było. Co do zmian które bym wykon
 - dodać fukncje usuwania/aktywacji zdjęć
 - dodać funkcje zarzadzania team'em;
 - poprawić pomniejsze błędy, lub zoptymalizować kod, przenosząc id_sesji poziom wyżej np do admin.php lub index.php
+- podpiać TWIG'a
 
 Logowanie do PA:
 admin.php
